@@ -6,6 +6,7 @@ body{
     margin-top: 20px;
     border: 6px solid red;
     border-radius: 80px;
+    box-shadow: 30px 18px 20px gray;
 }
 h2{
     font-weight: bold;
@@ -19,6 +20,9 @@ h1{
     display: inline-block;
 
 }
+.h2{
+    margin-top: 70px;
+}
 p{
     color: brown;
     font-weight: bold;
@@ -30,8 +34,11 @@ p{
     box-shadow: 2px 2px 10px gray;
 }
 video{
-    width: 90%;
+    width: 22%;
     height: auto;
+    margin-top: 2px;
+    border: 7px solid coral;
+    box-shadow: 2px 3px 30px gray;
 }
 @media screen {
     h1{
