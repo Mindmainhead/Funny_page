@@ -39,5 +39,9 @@ p{
         margin: auto;
         border-radius: 20px;
     }
+    .audio{
+        margin: auto;
+        width: 30vh;
+    }
     
 }
